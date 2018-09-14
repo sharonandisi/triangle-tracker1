@@ -4,9 +4,9 @@ This is a program that allows the user to input three sides of a triangle and th
 ## Description
 {This is a simple website ;containing a triangle tracker program. that allows the user to input three sides of a triangle and then returns whether the triangle is a scalene, or iscosceles, or equilateral or if it isn't a triangle. :https://github.com/sharonandisi/portfolio-landing-page.git }
 ## BDD
-First Header | Second Header | Third Header
------------- | ------------- | -------------
-Content cell 1 | Content cell 2 | Content cell 3
+Behaviour | Input Example | Output Example
+------------ ----------------------| ------------- | -------------
+Two sides of a triangle being equal | 2,2,5| Iscosceles
 Content column 1 | Content column 2 | Content cell 3
 ##  Setup/installation Requirements
 * Have a functioning up to date Web Browser
