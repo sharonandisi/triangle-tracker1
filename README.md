@@ -17,9 +17,9 @@ When the sum of two sides is equal to one side | 2,2,4 | Not a triangle
 ## Known Bugs
 As of this point there isn't any known bugs. 
 ## Technologies Used
-{I used html and css and java script to build this website. }
+I used html and css and java script to build this website. 
 ## Support and Contact Details
-{If you do run into any issues or have questions, ideas or concerns; you can contact me or simply make contributions to the code}
+If you do run into any issues or have questions, ideas or concerns; you can contact me or simply make contributions to the code
 ### License
 {MIT License}
 Copyright (c) {2018} 
