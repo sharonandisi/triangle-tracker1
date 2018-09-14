@@ -6,6 +6,12 @@ function tracker() {
         if(sideOne === sideTwo && sideTwo === sideThree){
             ans.textContent = "Equilateral Triangle"
         }
-        else if()
+        else if(sideOne === sideTwo || sideOne === sideThree || sideTwo === sideThree){
+            ans.textContent = "Isoscceles"
+        }
+        else if(sideOne !== sideTwo && sideTwo !== sideThree && sideThree !== sideOne) {
+            ans.textContent= "Scalene"
+
+        }
     }
 }
