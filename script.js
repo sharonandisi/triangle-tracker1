@@ -1,12 +1,6 @@
-window.onscroll = function () { myFunction() };
-
-var header = document.getElementById("myHeader");
-var sticky = header.offsetTop;
-
-function myFunction() {
-    if (window.pageYOffset > sticky) {
-        header.classList.add("sticky");
-    } else {
-        header.classList.remove("sticky");
-    }
+function tracker() {
+    var sideOne = parseInt(document.getElementById("side1").value);
+    var sideTwo = parseInt(document.getElementById("side2").value);
+    var sideThree = parseInt(document.getElementById("side3").value);
+    if(sideOne)
 }
