@@ -6,8 +6,8 @@ This is a program that allows the user to input three sides of a triangle and th
 ## BDD
 First Header | Second Header | Third Header
 ------------ | ------------- | -------------
-Content cell 1 | Content cell 2 | -------------
-Content column 1 | Content column 2 | -------------
+Content cell 1 | Content cell 2 | Content cell 3
+Content column 1 | Content column 2 | Content cell 3
 ##  Setup/installation Requirements
 * Have a functioning up to date Web Browser
 * Have a text editor i.e Atom, Visual Code Basic, Sublime Text etc.
